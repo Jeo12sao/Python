@@ -1,0 +1,12 @@
+1.  How do you move back and forth between directories?
+cd First/Directory/ or cd . or just cd.
+2.  How do you create and delete files?
+In Python you use hello_world.py, or whatever name that you want to use,and then hit save.
+You can also use touch and .txt behind the file
+3.  How do you create and delete directories?
+You would use mkdir and the name of the directory you are creating. 
+rmdir removes directories
+4.  How can I see exactly where I am within the file system?
+list
+
+5.  How can I see the files and directories within the current directory that I am in?
